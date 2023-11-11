@@ -13,4 +13,5 @@ Arayüz: Kelebek simgesi uçmayı başlatıyor.
 iki elli olanlar bir eliniz önde diğer eliniz arkadayken uçma modunu başlatıyor. Baskın olan el değişyor iki el arasında.
 <br>
 Tek elli olanlar seçili tek elle uçmanızı yön belirlemenizi sağlıyor. Yukarıdaki yeşil üçgen internete bağlı olduğunuzun simgesi diğeri ise Nervegear--Öhü quest 2'nizin kalan batarya yüzdesi.
-
+<br>
+Altı olmayan çift üçgen simgesi ise uçma hızınızı ayarlıyor.
