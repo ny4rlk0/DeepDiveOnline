@@ -1,2 +1,2 @@
 # DeepDiveOnline
-Unfinished VR Game i made similiar to Sword Art Online. (Tested on Quest 2) Quest 2 için SAO benzeri oyun.
+Unfinished VR Game i made similiar to Sword Art Online. (Tested on Quest 2) Quest 2 için SAO benzeri oyun. Devamını getirmeyi düşünmüyorum çünkü hadi programlamasını tek başıma hallettim. Blender vb. yazılımlarda animasyon yapmak ve karakter oluşturmak ömrümden ömür alıyor. Tek bir geliştiricinin bu kadar büyük bir projeye girişmesinin yanlış olduğunu buradan öğrenmiş oldum. Lakin uçuş mekanikleri eğlenceli. 1-2 gün oyalanırsınız.
