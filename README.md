@@ -1,4 +1,5 @@
 # DeepDiveOnline
+TODO: Fix Controllers.
 Unfinished Shitty VR Game. (Tested on Quest 2) 
 <br><br>Quest 2 oyun.
 <br>
